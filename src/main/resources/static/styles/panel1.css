@@ -1,0 +1,33 @@
+
+.panel-header{
+    background-color: #fff;
+    border-bottom: 1px solid #aaa;
+    padding: 10px;
+}
+.side-nav{
+    background-color: #34495e;
+    color: #fff;
+    height: 100%;
+}
+.side-nav ul{
+    list-style: none;
+    padding: 10px;
+}
+.side-nav li{
+    padding: 7px;
+    text-align: left;
+}
+.side-nav li:hover{
+    background-color: #435f76;
+}
+.side-nav a{
+    color: #fff;
+    text-decoration: none;
+    padding: 7px;
+}
+
+.main-container {
+    min-height: 780px;
+    background-color: #eee;
+}
+
